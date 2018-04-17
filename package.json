@@ -1,8 +1,8 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "http://tanghia8897.github.io/my-app",
-  "private": true,
+  "homepage": "http://tanghia8897.github.io/my-app/",
+  "private": false,
   "dependencies": {
     "react": "^16.3.1",
     "react-dom": "^16.3.1",
